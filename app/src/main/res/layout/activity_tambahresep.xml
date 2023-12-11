@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mudalagi"
+    tools:context=".tambahresep">
+
+
+    <EditText
+        android:id="@+id/desc_text"
+        android:layout_width="350dp"
+        android:layout_height="350dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="276dp"
+        android:background="@drawable/isi"
+        android:gravity="center"
+        android:hint="Deskripsi Makanan"
+        android:inputType="textMultiLine"
+        android:padding="16dp"
+        android:textSize="20dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/namaRtext"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="28dp"
+        android:layout_marginTop="200dp"
+        android:background="@drawable/isi"
+        android:hint="Nama Makanan"
+        android:inputType="textEmailAddress"
+        android:padding="16dp"
+        android:textSize="20dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/profileImageView"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_marginLeft="144dp"
+        android:layout_marginTop="64dp"
+        android:src="@drawable/person"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/simpan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="640dp"
+        android:background="@color/lebihmuda"
+        android:hint="SIMPAN"
+        android:textColorHint="@color/mudalagilagi"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

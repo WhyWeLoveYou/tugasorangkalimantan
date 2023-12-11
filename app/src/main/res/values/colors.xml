@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#80CBC4</color>
+    <color name="o">#D0E7D2</color>
+    <color name="p">#B0D9B1</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="s">#618264</color>
+    <color name="f">#79AC78</color>
+    <color name="ijotua">#618264</color>
+    <color name="lebihmuda">#79AC78</color>
+    <color name="mudalagi">#B0D9B1</color>
+    <color name="mudalagilagi">#D0E7D2</color>
+</resources>

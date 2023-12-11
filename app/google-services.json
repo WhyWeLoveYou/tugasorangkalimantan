@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "669259726689",
+    "project_id": "gataua-aa1ac",
+    "storage_bucket": "gataua-aa1ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669259726689:android:e5a580c079c1aa32468f20",
+        "android_client_info": {
+          "package_name": "com.example.ugm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALjw5LOTOMbsITzWrLhlY1jTn0P94w-BQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
